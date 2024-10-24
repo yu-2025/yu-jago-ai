@@ -15,21 +15,21 @@ The JAGO-AI platform represents a full cycle of AI development, starting with in
 data and ending with entering test questions and obtaining adequate answers.
 
 As a basic algorithm we use Retrieval Augmented Generation (RAG):
-Load Documents , Split Documents , Tokenize , Create Vector Embedding
-Store Vector Embedding in Vector Database
-User - Ask Question , Get Response
+- Load Documents , Split Documents , Tokenize , Create Vector Embedding
+- Store Vector Embedding in Vector Database
+- User - Ask Question , Get Response
 
 To implement JAGO-AI we intend to use:
 
 Libraries:
-LangChain4j with many of its models (LocalAI, Jlama, Ollama, ...)
-DeepLearning4J - tool for machine learning if it is needed
+- LangChain4j with many of its models (LocalAI, Jlama, Ollama, ...)
+- DeepLearning4J - tool for machine learning if it is needed
 
 Databases:
-Neo4j - vector database with its own declarative graph query language Cypher
+- Neo4j - vector database with its own declarative graph query language Cypher
 
 Large Language Models LLM:
-From HuggingFace database with many of its local LLM models
+- From HuggingFace database with many of its local LLM models
 
 Telegram (Money API) (AI chatbots) (translate text-to-text) (translate audio-to-audio)
 
