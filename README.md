@@ -49,7 +49,7 @@ Telegram (Money API) (AI chatbots) (translate text-to-text) (translate audio-to-
 
 <table border="0">
   <tr>
-    <td><a href="https://yu-2025.github.io/yu-jago-ai" target="_blank"><img src="screen/JAGO-AI_START_external.jpg"></a></td>
+    <td><a href="https://yu-2025.github.io/yu-jago-ai" target="_blank"><img src="screen/JAGO-AI_START_expand.jpg"></a></td>
   </tr>
 </table>
 
